@@ -12,6 +12,6 @@ for el in list:
         new_list.append(el)
     new_list.append(' ')
 print(new_list)
-list_1 = ' '.join(new_list).strip()
-print(list_1)
+list_2 = ' '.join(new_list).strip()
+print(list_2)
 
